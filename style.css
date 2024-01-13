@@ -1,0 +1,46 @@
+* {
+    /* margin: 0; */
+    /* padding: 0px; */
+    /* text-align: center;  */
+
+}
+
+.continer{
+    border: 2px solid black;
+    /* margin-left : 170vh; */
+    text-align: center;
+    /* padding: 10vh; */
+    height: fit-content;
+    width: fit-content;
+    
+
+}
+
+.head{
+    
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+
+
+.ip > input{
+    height: 7vh;
+    width: 45vh;
+    border-radius: 40px;
+    margin: 2px;
+    color: blueviolet;
+
+}
+  
+
+
+button{
+    height: 40px;
+    width: 60px;
+    border: 2px solid black;
+    border-radius: 40px;
+    margin: 4px;
+    color: red;
+    
+}
